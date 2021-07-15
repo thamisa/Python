@@ -1,0 +1,1 @@
+Simple general knowledge quiz.
